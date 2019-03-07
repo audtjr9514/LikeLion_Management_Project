@@ -18,11 +18,13 @@
 
 #### 7. 템플릿 상속을 이용하여 프로젝트 폴더의 base.html이 기본이 됩니다.
 
-#### 	(부트스트랩 예제 _ [Navbar static](https://getbootstrap.com/docs/4.3/examples/navbar-static/)
-
-#### 	을 사용했습니다.)
+#### 	(부트스트랩 예제 _ [Navbar static](https://getbootstrap.com/docs/4.3/examples/navbar-static/)을 사용했습니다.)
 
 #### 8. admin 계정은 likelion / 1q2w3e4r 입니다.  
+
+
+
+
 
 
 
